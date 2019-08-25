@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 known_chains = {
     "X4T": {
-        "chain_id": "b9ed93a33a2c288fbfa0f2fb24c32394909ad4cff76b8dc8be58bca421c8463f",
+        "chain_id": "56f37215a0f68bf8b5ee6e1c5b78b1c6d06bc78e8a69d67a2b1857d1c7a3dde3",
         "core_symbol": "X4T",
         "prefix": "X4T",
     },
